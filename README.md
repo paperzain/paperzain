@@ -2,11 +2,12 @@
 
 A fresh Cyber Security graduate from Air University, Islamabad. My core interest lies in defending digital environments, monitoring threats, analysing incidents, and proactively mitigating security vulnerabilities across complex systems.
 
-Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications.. Through my writing, contemporary art, and photography, I explore domains of technology, philosophy, religion, psychology and literature, where I blend analytical insight with creative expression.
+
 
 # 🚀 Expertise
 
-I am an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms such as Wazuh, Splunk, IBM QRadar, Microsoft Sentinel, ELK Stack, and Google Chronicle. I have analyzed Windows Event Logs and network traffic using Wireshark, Suricata, and Snort, and performed vulnerability assessments with Nessus, OpenVAS, Nmap, and Nikto. I am comfortable working in Linux environments (Kali Linux and Ubuntu) and have exposure to digital forensics tools including Autopsy and FTK Imager to support incident response activities.
+
+I am an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms such as Wazuh, Splunk, IBM QRadar, Microsoft Sentinel, ELK Stack, and Google Chronicle. I have analyzed Windows Event Logs and network traffic using Wireshark, Suricata, and Snort, and performed vulnerability assessments with Nessus, OpenVAS, Nmap, and Nikto. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications.. Through my writing, contemporary art, and photography, I explore domains of technology, philosophy, religion, psychology and literature, where I blend analytical insight with creative expression.
 
 # 💻 Tech Stack
 
