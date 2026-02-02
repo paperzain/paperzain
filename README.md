@@ -7,7 +7,7 @@ A fresh Cyber Security graduate from Air University, Islamabad.
 ## 🚀 Expertise
 
 
-I am an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms such as Wazuh, Splunk, IBM QRadar, Microsoft Sentinel, ELK Stack, and Google Chronicle. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I explore domains of technology, philosophy, religion, psychology and literature, where I blend analytical insight with creative expression.
+I am an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms such as Wazuh, Splunk, IBM QRadar, Microsoft Sentinel, ELK Stack, and Google Chronicle. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I blend analytical insight with creative expression.
 
 ### 💻 Tech Stack
 
