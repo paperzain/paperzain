@@ -30,5 +30,4 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 
 
 ### Certs:
-<img width="1059" height="779" alt="image" src="https://github.com/user-attachments/assets/3dc3aba7-5fed-46bd-b47e-05885c73825b" />
 <img width="1197" height="587" alt="image" src="https://github.com/user-attachments/assets/26ea1d46-e891-4faf-bc74-3ab453d7faab" />
