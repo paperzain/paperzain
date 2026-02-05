@@ -29,10 +29,6 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 
 
 
-### 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paperzain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali-zain-cys/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@paperzain)
-[![VSCO](https://img.shields.io/badge/VSCO-%23000000.svg?logo=VSCO&logoColor=white)](https://vsco.co/paperzain/gallery)
-
+### Certs:
+<img width="1059" height="779" alt="image" src="https://github.com/user-attachments/assets/3dc3aba7-5fed-46bd-b47e-05885c73825b" />
+<img width="1197" height="587" alt="image" src="https://github.com/user-attachments/assets/26ea1d46-e891-4faf-bc74-3ab453d7faab" />
