@@ -16,12 +16,9 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 ![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Google SecOps](https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-1976D2?style=for-the-badge)
 ![Adobe%20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)
 
 
 
