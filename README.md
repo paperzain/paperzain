@@ -30,7 +30,7 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 
 
 
+![CERTS - GIT](https://github.com/user-attachments/assets/30e2b70b-b3cd-4645-b406-9b7482153a84)
 
 
 
-<img width="1197" height="587" alt="image" src="https://github.com/user-attachments/assets/26ea1d46-e891-4faf-bc74-3ab453d7faab" />
