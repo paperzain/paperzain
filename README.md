@@ -22,7 +22,7 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 
 ### 📃 Certs: 
 
-| 📜 **Certified Ethical Hacker (CEHv13)** – EC-Council | 📜 **Certified Network Security Practitioner (CNSP) & CSEDP** – SecOps |
+| 📜 **Certified Ethical Hacker (CEHv13)** – EC Council | 📜 **Certified Network Security Practitioner (CNSP) & CSEDP** – SecOps |
 |:-------------------------------------------------|:--------------------------------------------------------------------|
 | 📜 **Microsoft Cybersecurity Analyst (MCSA)** | 📜 **Google Cybersecurity Professional Certificate (CSPC)** |
 | 📜 **CRTOM, CTIGA, and CCEP** – Red Team Leaders |  📜 **Certified Phishing Prevention Specialist (CPPS)** – Hack and Fix |
