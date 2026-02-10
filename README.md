@@ -9,7 +9,7 @@ A fresh Cyber Security graduate from Air University, Islamabad.
 
 I am an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms such as Wazuh, Splunk and ELK Stack. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I blend analytical insight with creative expression.
 
-### 💻 Tech Stack
+### 💻 My Toolbox
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
