@@ -25,8 +25,8 @@ I am an entry-level SOC Analyst with hands-on experience in security monitoring,
 | 📜 **Certified Ethical Hacker (CEH)** – EC-Council | 📜 **Certified Network Security Practitioner (CNSP) & CSEDP** – SecOps |
 |:-------------------------------------------------|:--------------------------------------------------------------------|
 | 📜 **Microsoft Cybersecurity Analyst (MCSA)** | 📜 **Google Cybersecurity Professional Certificate (CSPC)** |
-|  📜 **CRTOM, CTIGA, CCEP** – Red Team Leaders | 📜 **ICIP** – OPSWAT Academy |
-| 📜 **CPPS** – Hack and Fix |📜**ISO 27001:2022 Information Security Associate**  |
+| 📜 **CRTOM, CTIGA, CCEP** – Red Team Leaders |  📜 **Certified Phishing Prevention Specialist (CPPS)** – Hack and Fix |
+| 📜 **ICIP** – OPSWAT Academy  |📜**ISO 27001 : 2022 Information Security Associate** |
 
 
 
