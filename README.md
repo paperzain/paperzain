@@ -16,12 +16,6 @@ A fresh Cyber Security graduate from Air University, Islamabad and an entry-leve
 
 ### 📃 Certs: 
 
-| 📜 **Certified Ethical Hacker (CEHv13)** – EC Council | 📜 **Certified Network Security Practitioner (CNSP) & CSEDP** – SecOps |
-|:-------------------------------------------------|:--------------------------------------------------------------------|
-| 📜 **Microsoft Cybersecurity Analyst (MCSA)** | 📜 **Google Cybersecurity Professional Certificate (CSPC)** |
-| 📜 **CRTOM, CTIGA, and CCEP** – Red Team Leaders |  📜 **Certified Phishing Prevention Specialist (CPPS)** – Hack and Fix |
-| 📜 **ICIP** – OPSWAT Academy |📜**ISO/IEC 27001 : 2022 Information Security Associate** |
-
 
 
 ![CERTS - GIT](https://github.com/user-attachments/assets/30e2b70b-b3cd-4645-b406-9b7482153a84)
