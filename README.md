@@ -1,6 +1,7 @@
 ## 👋 Hi, I am Zain
 
 A fresh Cyber Security graduate from Air University, Islamabad and an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I blend analytical insight with creative expression. 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5776114" style='border:none;'></iframe>
 
 
 ### 🛠️ My Toolbox
