@@ -2,7 +2,7 @@
 <img width="329" height="88" alt="paperzain" src="https://github.com/user-attachments/assets/a12dc6cf-6aca-4c49-b792-09fa7fddf008" />
 
 
-A fresh Cyber Security graduate from Air University, Islamabad and an entry-level SOC Analyst with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I blend analytical insight with creative expression. 
+A fresh Cyber Security graduate from Air University, Islamabad with hands-on experience in security monitoring, log analysis, and incident detection using SIEM platforms. Alongside my technical career, I am a Contemporary Multimedia Artist, with experience as a remote columnist for renowned newspapers and International publications. Through my writing, contemporary art, and photography, I blend analytical insight with creative expression. 
 
 
 ### 🛠️ My Toolbox
